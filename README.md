@@ -10,4 +10,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ozneeee&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozneeee)
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozneeee) -->
