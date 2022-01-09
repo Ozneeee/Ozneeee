@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Ozne, a french Developper
 
 - 🔭 I’m currently working on big Javascript project ( React & Node.js )
-- 📚 I’m currently learning websockets
+<!-- - 📚 I’m currently learning websockets -->
 - 🛠 I also do missions for Fivem
 
 
