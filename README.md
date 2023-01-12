@@ -11,4 +11,4 @@
 
 ![alt text](https://miro.medium.com/max/1400/1*RAsZ2uD3ZO7-NCuK2MUILA.gif)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozneeee)
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ozneeee) -->
