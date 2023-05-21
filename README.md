@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Ozne, a french Developper
 
-- 🔭 I’m currently working on a big React.js project !
-<!-- - 📚 I’m currently learning websockets -->
-- 🛠 I also do missions for Fivem
+<!-- - 🔭 I’m currently working on a big React.js project ! -->
+- 📚 I’m currently working with React (MERN) for a great company based in south of France ! 
+<!-- - 🛠 I also do missions for Fivem -->
 
 
-🔵 Join my discord ! [4k Members] : https://discord.gg/nx3TKM5 
+🔵 Feel free to contact me discord ! : https://discord.gg/nx3TKM5 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ozneeee&theme=highcontrast&show_icons=true&count_private=true)
 
