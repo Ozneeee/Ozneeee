@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on a big React.js project ! -->
 - 💻 I’m currently working with React (MERN) for a great company based in south of France ! 
-- 📚 I’m currently Junior +2 years of work with React JS, React Native & MERN ! 
+- 📚 Junior +2 professional years of work with React JS, React Native & MERN ! 
 <!-- - 🛠 I also do missions for Fivem -->
 
 
