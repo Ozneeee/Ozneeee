@@ -35,27 +35,6 @@ On my own time, I build a mobile ERP and data tools for retail.
 
 ---
 
-### `> active_projects`
-
-| Project | What it does | Stack | Status |
-|---|---|---|---|
-| **Olya** | Mobile ERP built solo. Inventory, accounting, HR, CRM, calendar, POS. One unified permission system across modules. | MongoDB · Express · React Native · Node | Pre-beta |
-| **Portfolio** | My personal site. Scroll-driven, built to stay SEO-friendly. | React · Three.js | Live |
-| **Retail analytics** | Connects POS and stock systems of food stores. Computes KPIs. An LLM turns them into recommendations for franchisees. | Python · pandas · DuckDB · LLM API · MERN | MVP |
-| **Team lead, mobile app** | Led the delivery of a React Native / Expo app at Iléa Connect. | React Native · Expo · Node | Shipped |
-
-### `> client_work.log`
-
-```diff
-+ Symfony / EasyAdmin ERP: fixed Doctrine migrations, converted ~128k rows from MyISAM to InnoDB, cleaned orphaned data
-+ Reusable custom action buttons (CSV export, entity creation) rolled out across 10 CRUD controllers
-+ Custom WordPress themes on a utility-first CSS framework I wrote, ACF-driven templates, scroll animations
-+ Twig CMS performance work: responsive images, fetchpriority, lazy loading
-+ Vanilla JS touch slider with infinite loop and snap logic
-```
-
----
-
 ### `> stack`
 
 **Frontend**
