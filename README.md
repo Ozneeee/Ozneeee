@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0b1a33,100:1f6feb&height=220&section=header&text=ENZO%20RUFFIN&fontSize=58&fontColor=e6edf3&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20MERN%20%C2%B7%20React%20Native%20%C2%B7%203D%20Web&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Enzo Ruffin banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070d,50:0b1a33,100:1f6feb&height=220&section=header&text=ENZO%20RUFFIN&fontSize=58&fontColor=e6edf3&fontAlignY=38&desc=Fullstack%20Developer%20%C2%B7%20MERN%20%C2%B7%20React%20Native&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Enzo Ruffin banner" />
 
 <a href="https://enzoruffin.fr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Booting+Orbital+Assembly+Bay...;Fullstack+developer+based+in+Toulouse%2C+France;Web+and+mobile+products%2C+shipped+end+to+end;Next+docking+port%3A+Montreal" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Fullstack+developer+based+in+Toulouse%2C+France;Web+and+mobile+products%2C+shipped+end+to+end;From+database+to+pixel;Next+stop%3A+Montreal" alt="Typing intro" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ languages:   French, English
 education:   Lead Developer, Master's level (BAC+5), Diginamic, work-study until Feb 2027
 day_job:     Fullstack developer at a web agency, several client projects in parallel
 side:        Freelance web studio + my own products
-focus:       MERN, React Native, 3D web, data and AI integrations
+focus:       MERN, React Native, data and AI integrations
 ```
 
 ### `> about`
@@ -35,12 +35,12 @@ On my own time, I build a mobile ERP and data tools for retail.
 
 ---
 
-### `> active_missions`
+### `> active_projects`
 
-| Module | What it does | Stack | Status |
+| Project | What it does | Stack | Status |
 |---|---|---|---|
 | **Olya** | Mobile ERP built solo. Inventory, accounting, HR, CRM, calendar, POS. One unified permission system across modules. | MongoDB · Express · React Native · Node | Pre-beta |
-| **Orbital Assembly Bay** | My portfolio. Scroll-driven 3D experience, built to stay SEO-friendly. | React · React Three Fiber · Three.js | Live |
+| **Portfolio** | My personal site. Scroll-driven, built to stay SEO-friendly. | React · Three.js | Live |
 | **Retail analytics** | Connects POS and stock systems of food stores. Computes KPIs. An LLM turns them into recommendations for franchisees. | Python · pandas · DuckDB · LLM API · MERN | MVP |
 | **Team lead, mobile app** | Led the delivery of a React Native / Expo app at Iléa Connect. | React Native · Expo · Node | Shipped |
 
@@ -56,16 +56,16 @@ On my own time, I build a mobile ERP and data tools for retail.
 
 ---
 
-### `> loaded_modules`
+### `> stack`
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-0b1a33?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-0b1a33?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-0b1a33?style=flat-square&logo=expo&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-0b1a33?style=flat-square&logo=threedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0b1a33?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0b1a33?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Three.js](https://img.shields.io/badge/Three.js-0b1a33?style=flat-square&logo=threedotjs&logoColor=white)
 
 **Backend and data**
 
@@ -94,14 +94,14 @@ On my own time, I build a mobile ERP and data tools for retail.
 
 ---
 
-### `> transmission`
+### `> contact`
 
-Open to fullstack roles in **Montreal** from 2027.
+Open to fullstack roles in **USA / CANADA** from 2027.
 The fastest way to reach me is through my portfolio.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_the_bay-enzoruffin.fr-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enzoruffin.fr)
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-enzoruffin.fr-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enzoruffin.fr)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0b1a33,100:05070d&height=120&section=footer" width="100%" alt="footer" />
 
